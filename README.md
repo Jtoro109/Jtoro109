@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/LUIvcbR6yytz2/giphy.gif" width="150" alt="Pixel Art Hero](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNuc3o3MW1rYXhxejMxYWFyMW1sbGFnNjFkbXpnOWRkYWRtbGMwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNuc3o3MW1rYXhxejMxYWFyMW1sbGFnNjFkbXpnOWRkYWRtbGMwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Pixel Art Hero"/>
   
-  <h1>¡Hola! Soy Jose Emanuel Toro Medina 👾</h1>
+  <h1>Hi! I'm Jose Emanuel Toro Medina 👾</h1>
   
 </div>
 
 ---
 
-## 📜 Sobre mi Misión
-- 🛡️ **Clase:** Full Stack Developer / Estudiante]
-- 🌍 **Base de Operaciones:** Bogotá, Colombia
-- ⚔️ **Equipamiento actual:** Estudiante en la Unal de Ciencias de la Computación
-- 🔮 **Entrenando para subir de nivel en:** [Menciona qué tecnologías quieres aprender]
+## 📜 About My Quest
+- 🛡️ **Class:** Full Stack Developer / Student
+- 🌍 **Home Base:** Bogotá, Colombia
+- ⚔️ **Current Equipment:** Computer Science Student at UNAL
+- 🔮 **Grinding XP in:** [Mention the technologies you want to learn, e.g., TypeScript, AWS, Docker]
 
 ---
 
-## 🎒 Inventario de Tecnologías (Tech Stack)
+## 🎒 Inventory (Tech Stack)
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,15 +25,15 @@
 
 ---
 
-## 🏆 Estadísticas de la Partida
+## 🏆 Player Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jtoro109&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jtoro109&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>🐍 Contribuciones</h3>
+  <h3>🐍 Contributions</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jtoro109/Jtoro109/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jtoro109/Jtoro109/output/github-contribution-grid-snake.svg">
@@ -44,6 +44,6 @@
 
 ---
 
-## 📬 Puntos de Guardado (Contacto)
-- 💼 [LinkedIn]([https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/jose-emanuel-toro-medina-633b93217/))
-- 📧 [tu_correo@email.com](mailto:jtorome@unal.edu.co)
+## 📬 Save Points (Contact)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-emanuel-toro-medina-633b93217/)
+- 📧 [jtorome@unal.edu.co](mailto:jtorome@unal.edu.co)
